@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+body {
+            margin: 0;
+            min-height: 100vh;
+            background-color: #ffffff;
+        }
+        
+        h1 {
+            color: #333333;
+        }
